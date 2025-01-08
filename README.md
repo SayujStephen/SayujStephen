@@ -2,7 +2,7 @@
 
 Welcome to my GITHUB page. Follow the Link below to see my projects and the things that I'm working on. 
 
-🌐https://sayujstephen.github.io/
+🌐
 <!--
 **SayujStephen/SayujStephen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
