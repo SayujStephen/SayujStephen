@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GITHUB page. Follow the Link below to see my projects and the things that I'm working on. 
+Welcome to my GITHUB page. Follow the Link below to see my projects. 
 
 🌐https://sayujstephen.github.io/
 <!--
